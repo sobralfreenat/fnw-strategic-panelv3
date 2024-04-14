@@ -1,4 +1,6 @@
-https://sobralfreenat.github.io/fnw_connect_panel/
+https://sobralfreenat.github.io/fnw_connect_panel/no
+
+https://sobralfreenat.github.io/fnw-strategic-panelv3
 
 Ajustar deslocamento para esquerda, considerando Margin right
 
